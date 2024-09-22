@@ -2,23 +2,19 @@
 
 ## Overview
 
-TODO: Write a project description
+Writing CSS, JAVASCRIPT, and HTML together to form a letterhead website.
+
+Compiling:
+Not Neccessary
+
+Running:
+Live Preview through vs code or put the index on your favorite webbrowser.
+
+Most of this project was fine for me to do wasnt too complicated at all.
+The time where it did become a little challenging was using javascript.
+It has some weird rules that you have to know in order for it to actually
+work on your pc.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+No other sources used
